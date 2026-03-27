@@ -15,3 +15,8 @@ Esta categoría abarca buenas prácticas, arquitectura, patrones de refactorizac
 - **release-it**: Ingeniería de software orientada a la vida en producción, despliegues y estabilidad.
 - **software-design-philosophy**: Filosofía aplicada al diseño efectivo del software.
 - **system-design**: Diseño y arquitectura general de sistemas escalables.
+
+## Fuentes / Origen
+
+- **react-best-practices**: Importada de [DixelMedia/agent-skills](https://github.com/DixelMedia/agent-skills).
+- **Demás metodologías y libros**: Importados de [DixelMedia/skills](https://github.com/DixelMedia/skills).

@@ -32,3 +32,12 @@ dixel-media-skills/
 2. Dentro de esa nueva carpeta, crea un archivo llamado `SKILL.md` con el meta-dato requerido al inicio (confrontar `/skills/ejemplo-generador-copy/SKILL.md` como plantilla).
 3. Añade carpetas `/examples` (para darle referencias visuales o escritas a la IA) o `/resources` (para añadir PDFs o guías extra).
 4. Publicado en GitHub/GitLab, ¡podrás conectar este repositorio en tus asistentes de IA o como Plugins de sistema!
+
+## 📚 Fuentes y Referencias
+
+Gran parte de la información, metodologías y habilidades estructuradas en las diferentes categorías de este repositorio fueron extraídas y organizadas a partir de los siguientes repositorios originales:
+
+- https://github.com/DixelMedia/n8n-skills
+- https://github.com/DixelMedia/agent-skills
+- https://github.com/DixelMedia/skills
+

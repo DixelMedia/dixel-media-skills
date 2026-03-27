@@ -15,3 +15,8 @@ Esta carpeta reúne recursos, principios, libros y lineamientos enfocados en dis
 - **ux-heuristics**: Leyes y heurísticas para validar interfaces (Jakob Nielsen y otros).
 - **web-typography**: Reglas para legibilidad y el uso correcto de tipografías web.
 - **web-design-guidelines**: Directrices actualizadas para el diseño web responsivo.
+
+## Fuentes / Origen
+
+- **web-design-guidelines**: Importada de [DixelMedia/agent-skills](https://github.com/DixelMedia/agent-skills).
+- **Demás metodologías y libros**: Importados de [DixelMedia/skills](https://github.com/DixelMedia/skills).

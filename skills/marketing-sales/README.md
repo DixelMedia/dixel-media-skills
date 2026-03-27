@@ -17,3 +17,8 @@ Aquí se encuentran habilidades para la redacción persuasiva, marketing, ventas
 - **scorecard-marketing**: Uso de herramientas para evaluar a posibles clientes captando leads.
 - **storybrand-messaging**: Redacción de copies usando al cliente como el "Héroe de la historia" (Donald Miller).
 - **ejemplo-generador-copy**: Prompt de ejemplo para crear/generar descripciones/copies estructurados.
+
+## Fuentes / Origen
+
+- **ejemplo-generador-copy**: Original del repositorio base actual.
+- **Demás metodologías y libros**: Importados de [DixelMedia/skills](https://github.com/DixelMedia/skills).

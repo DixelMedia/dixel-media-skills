@@ -9,3 +9,7 @@ Conceptos teóricos sobre modelos de negocios, disrupción del mercado, negociac
 - **lean-startup**: Construcción rápida y experimental para iterar el negocio basándose en métricas exactas.
 - **negotiation**: Tácticas de negociación y conversaciones críticas.
 - **traction-eos**: El Sistema Operativo Empresarial para consolidar equipos de trabajo y tracción en la compañía.
+
+## Fuentes / Origen
+
+- Habilidades importadas del repositorio [DixelMedia/skills](https://github.com/DixelMedia/skills).

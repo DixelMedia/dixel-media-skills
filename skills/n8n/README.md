@@ -11,3 +11,6 @@ Esta carpeta contiene habilidades enfocadas en flujos de trabajo, configuracione
 - **n8n-node-configuration**: Guía experta para la configuración de diferentes nodos.
 - **n8n-validation-expert**: Estrategias de validación de datos dentro de n8n.
 - **n8n-workflow-patterns**: Patrones avanzados para orquestar y estructurar flujos.
+
+## Fuentes / Origen
+- Todas las skills de esta categoría fueron importadas del repositorio [DixelMedia/n8n-skills](https://github.com/DixelMedia/n8n-skills).
