@@ -18,5 +18,5 @@ Esta carpeta reúne recursos, principios, libros y lineamientos enfocados en dis
 
 ## Fuentes / Origen
 
-- **web-design-guidelines**: Importada de [DixelMedia/agent-skills](https://github.com/DixelMedia/agent-skills).
-- **Demás metodologías y libros**: Importados de [DixelMedia/skills](https://github.com/DixelMedia/skills).
+- **web-design-guidelines**: Importada de [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills).
+- **Demás metodologías y libros**: Importados de [wondelai/skills](https://github.com/wondelai/skills).

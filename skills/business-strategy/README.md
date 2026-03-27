@@ -12,4 +12,4 @@ Conceptos teóricos sobre modelos de negocios, disrupción del mercado, negociac
 
 ## Fuentes / Origen
 
-- Habilidades importadas del repositorio [DixelMedia/skills](https://github.com/DixelMedia/skills).
+- Habilidades importadas del repositorio [wondelai/skills](https://github.com/wondelai/skills).

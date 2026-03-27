@@ -18,5 +18,5 @@ Esta categoría abarca buenas prácticas, arquitectura, patrones de refactorizac
 
 ## Fuentes / Origen
 
-- **react-best-practices**: Importada de [DixelMedia/agent-skills](https://github.com/DixelMedia/agent-skills).
-- **Demás metodologías y libros**: Importados de [DixelMedia/skills](https://github.com/DixelMedia/skills).
+- **react-best-practices**: Importada de [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills).
+- **Demás metodologías y libros**: Importados de [wondelai/skills](https://github.com/wondelai/skills).

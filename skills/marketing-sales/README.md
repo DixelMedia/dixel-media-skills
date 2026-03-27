@@ -21,4 +21,4 @@ Aquí se encuentran habilidades para la redacción persuasiva, marketing, ventas
 ## Fuentes / Origen
 
 - **ejemplo-generador-copy**: Original del repositorio base actual.
-- **Demás metodologías y libros**: Importados de [DixelMedia/skills](https://github.com/DixelMedia/skills).
+- **Demás metodologías y libros**: Importados de [wondelai/skills](https://github.com/wondelai/skills).

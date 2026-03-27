@@ -13,4 +13,4 @@ Esta carpeta contiene habilidades enfocadas en flujos de trabajo, configuracione
 - **n8n-workflow-patterns**: Patrones avanzados para orquestar y estructurar flujos.
 
 ## Fuentes / Origen
-- Todas las skills de esta categoría fueron importadas del repositorio [DixelMedia/n8n-skills](https://github.com/DixelMedia/n8n-skills).
+- Todas las skills de esta categoría fueron importadas del repositorio [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills).

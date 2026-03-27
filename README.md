@@ -37,7 +37,7 @@ dixel-media-skills/
 
 Gran parte de la información, metodologías y habilidades estructuradas en las diferentes categorías de este repositorio fueron extraídas y organizadas a partir de los siguientes repositorios originales:
 
-- https://github.com/DixelMedia/n8n-skills
-- https://github.com/DixelMedia/agent-skills
-- https://github.com/DixelMedia/skills
+- https://github.com/czlonkowski/n8n-skills
+- https://github.com/vercel-labs/agent-skills
+- https://github.com/wondelai/skills
 

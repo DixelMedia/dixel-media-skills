@@ -11,4 +11,4 @@ Carpeta orientada a los roles y responsabilidades de la construcción y entendim
 
 ## Fuentes / Origen
 
-- Habilidades importadas del repositorio [DixelMedia/skills](https://github.com/DixelMedia/skills).
+- Habilidades importadas del repositorio [wondelai/skills](https://github.com/wondelai/skills).
